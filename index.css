@@ -1,1 +1,25 @@
+/* CSS file */
 
+body{
+  background-color: pink;
+}
+
+.page-title-class{
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+}
+
+img{
+  margin-top: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.text-box{
+  display: inline-flex;
+  margin-top: 50px;
+}
